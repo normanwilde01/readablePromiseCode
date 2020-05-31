@@ -11,9 +11,9 @@ This project presents some suggested good practices for using Promises. I sugges
 
 ## Resources:
 - Presentation video: XXXX working here
-- Slides: XXXX working here
+- Slides: [readablePromiseCode.pdf](/readablePromiseCode.pdf)
 
 ## Sample Code:
-- SimpleServiceTester.ts, a sample class for Promise chains that run simple tests of web services
-- shortExampleMain.ts, a main program containing a Promise chain that uses the SimpleServiceTester class
+- `SimpleServiceTester.ts`, a sample class for Promise chains that run simple tests of web services
+- `shortExampleMain.ts`, a main program containing a Promise chain that uses the SimpleServiceTester class
 
