@@ -1,5 +1,5 @@
 # Readable Node.js Code Using JavaScript Promises
-## Author: Norman Wilde, [http://normanwilde.net](http://normanwilde.net)
+## Author: Norman Wilde, [http://www.normanwilde.net](http://www.normanwilde.net)
 ## Keywords:
 JavaScript, Promises, Nodejs, Microservices, Progamming best practices,
 Software Engineering
