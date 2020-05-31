@@ -1,2 +1,19 @@
-# readablePromiseCode
- sample code for good practices in using javascript promises
+# Readable Node.js Code Using JavaScript Promises
+## Author: Norman Wilde, [http://normanwilde.net](http://normanwilde.net)
+## Keywords:
+JavaScript, Promises, Nodejs, Microservices, Progamming best practices,
+Software Engineering
+## Summary:
+JavaScript code, as used in programming microservices on node.js, can become very difficult to read due to the heavy use of callbacks.
+So-called "Promise" objects can improve things, but even Promise-based code can be complicated.
+
+This project presents some suggested good practices for using Promises. I suggest using object-oriented principles to encapsulate each chain of Promises in a class. I also suggest certain conventions for programming the class and the chain to provide easily readable and maintainable code.
+
+## Resources:
+- Presentation video: XXXX working here
+- Slides: XXXX working here
+
+## Sample Code:
+- SimpleServiceTester.ts, a sample class for Promise chains that run simple tests of web services
+- shortExampleMain.ts, a main program containing a Promise chain that uses the SimpleServiceTester class
+
