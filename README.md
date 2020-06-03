@@ -10,7 +10,7 @@ So-called "Promise" objects can improve things, but even Promise-based code can 
 This project presents some suggested good practices for using Promises. I suggest using object-oriented principles to encapsulate each chain of Promises in a class. I also suggest certain conventions for programming the class and the chain to provide easily readable and maintainable code.
 
 ## Resources:
-- Presentation video: XXXX working here
+- Presentation video, 24 minutes: [https://vimeo.com/425643863](https://vimeo.com/425643863)
 - Slides: [readablePromiseCode.pdf](/readablePromiseCode.pdf)
 
 ## Sample Code:
